@@ -19,8 +19,11 @@ Sox-audio para reproduzir o audio.
 
 linha
 -8 B_HOST=localhost  //nome do host
+
 -9 DB_PORT=3306  //porta que esta o banco
+
 -10 DB_USER=root  //usuario 
+
 -11 DB_PASSWORD=  //senha
 
 //configurar o .env
