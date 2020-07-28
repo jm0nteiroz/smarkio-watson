@@ -18,6 +18,7 @@ Sox-audio para reproduzir o audio.
 - Alterar o:
 
 linha
+
 -8 B_HOST=localhost  //nome do host
 
 -9 DB_PORT=3306  //porta que esta o banco
@@ -33,9 +34,13 @@ linha
 ./watson.Front-master/services/watson.js
 
 linha 
+
 13.........const textToSpeech = new TextToSpeechV1({
+
 14..........authenticator: new IamAuthenticator({ apikey: '<your api-key>' }),
+  
 15..........url: ' your url'
+
 16......});
 
 
