@@ -33,7 +33,7 @@ linha
 //configurar a api-key e url ->
 ./watson.Front-master/services/watson.js
 
-linha 
+linha do codigo:
 
 13.........const textToSpeech = new TextToSpeechV1({
 
