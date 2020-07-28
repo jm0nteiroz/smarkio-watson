@@ -18,9 +18,9 @@ Sox-audio para reproduzir o audio.
 - Alterar o:
 
 linha
--8...........B_HOST=localhost  //nome do host
+- B_HOST=localhost  //nome do host
+- DB_PORT=3306  //porta que esta o banco
 
--9...........DB_PORT=3306  //porta que esta o banco
 -10..........DB_USER=root  //usuario 
 -11..........DB_PASSWORD=  //senha
 
